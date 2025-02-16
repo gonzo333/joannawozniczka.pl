@@ -1,2 +1,1 @@
-# joannawozniczka.pl
-Strona Asia
+# joanna-strona
